@@ -28,10 +28,9 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: linear-gradient(
-    rgb(16, 123, 253, 0.65), 
-    rgba(251, 223, 14, 0.65)
-  );
+  background-image: url(./images/photo_2024-03-25_17-26-01.jpg);
+  background-size: cover;
+  justify-content: center;
 }
 
 h1 {
