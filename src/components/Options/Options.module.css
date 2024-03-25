@@ -1,0 +1,28 @@
+.buttonsFeedbackContainer {
+    margin-top: 30px;
+    display: flex;
+    justify-content:center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 30px;
+    max-width: 400px;
+    padding: 0 10px;
+}
+
+.buttonFeedback {
+    background-color: rgb(16, 123, 253);
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    border: 3px solid rgb(251, 223, 14);
+    text-align: center;
+    width: auto;
+    height: 90px;
+    cursor: pointer;
+}
+
+.buttonFeedback:hover {
+    border-color: rgb(16, 123, 253);
+    background-color: rgb(251, 223, 14);
+    scale: 1.1;
+}

@@ -1,0 +1,13 @@
+.feedbackAlternativeText {
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.6);
+}
+
+.feedbackAlternativeContainer {
+    margin-top: 40px;
+    background-color: rgb(16, 123, 253);
+    border-radius: 50%;
+    height: auto;
+    border: 10px groove rgb(251, 223, 14);
+    padding: 0 35px;
+}
